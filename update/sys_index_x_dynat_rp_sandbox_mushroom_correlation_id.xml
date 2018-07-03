@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>correlation_id</col_name_string>
+        <index_col_name element="correlation_id" name="x_dynat_rp_sandbox_mushroom">d64f0502dbc7db00d5e7572e5e96199d</index_col_name>
+        <logical_table_name>x_dynat_rp_sandbox_mushroom</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-03 12:31:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>6e301142dbc7db00d5e7572e5e961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_dynat_rp_sandbox_mushroom</sys_name>
+        <sys_package display_value="RP_Sandbox" source="x_dynat_rp_sandbox">d5dec50edb87db00d5e7572e5e9619be</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RP_Sandbox">d5dec50edb87db00d5e7572e5e9619be</sys_scope>
+        <sys_update_name>sys_index_x_dynat_rp_sandbox_mushroom_correlation_id</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-03 12:31:44</sys_updated_on>
+        <table display_value="Mushroom" name="x_dynat_rp_sandbox_mushroom">14eecdcedb87db00d5e7572e5e961998</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>
